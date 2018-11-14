@@ -1,0 +1,1705 @@
+gapminder.country	gapminder.lifeExp
+Afghanistan	28.801
+Afghanistan	30.332
+Afghanistan	31.997
+Afghanistan	34.02
+Afghanistan	36.088
+Afghanistan	38.438
+Afghanistan	39.854
+Afghanistan	40.822
+Afghanistan	41.674
+Afghanistan	41.763
+Afghanistan	42.129
+Afghanistan	43.828
+Albania	55.23
+Albania	59.28
+Albania	64.82
+Albania	66.22
+Albania	67.69
+Albania	68.93
+Albania	70.42
+Albania	72
+Albania	71.581
+Albania	72.95
+Albania	75.651
+Albania	76.423
+Algeria	43.077
+Algeria	45.685
+Algeria	48.303
+Algeria	51.407
+Algeria	54.518
+Algeria	58.014
+Algeria	61.368
+Algeria	65.799
+Algeria	67.744
+Algeria	69.152
+Algeria	70.994
+Algeria	72.301
+Angola	30.015
+Angola	31.999
+Angola	34
+Angola	35.985
+Angola	37.928
+Angola	39.483
+Angola	39.942
+Angola	39.906
+Angola	40.647
+Angola	40.963
+Angola	41.003
+Angola	42.731
+Argentina	62.485
+Argentina	64.399
+Argentina	65.142
+Argentina	65.634
+Argentina	67.065
+Argentina	68.481
+Argentina	69.942
+Argentina	70.774
+Argentina	71.868
+Argentina	73.275
+Argentina	74.34
+Argentina	75.32
+Australia	69.12
+Australia	70.33
+Australia	70.93
+Australia	71.1
+Australia	71.93
+Australia	73.49
+Australia	74.74
+Australia	76.32
+Australia	77.56
+Australia	78.83
+Australia	80.37
+Australia	81.235
+Austria	66.8
+Austria	67.48
+Austria	69.54
+Austria	70.14
+Austria	70.63
+Austria	72.17
+Austria	73.18
+Austria	74.94
+Austria	76.04
+Austria	77.51
+Austria	78.98
+Austria	79.829
+Bahrain	50.939
+Bahrain	53.832
+Bahrain	56.923
+Bahrain	59.923
+Bahrain	63.3
+Bahrain	65.593
+Bahrain	69.052
+Bahrain	70.75
+Bahrain	72.601
+Bahrain	73.925
+Bahrain	74.795
+Bahrain	75.635
+Bangladesh	37.484
+Bangladesh	39.348
+Bangladesh	41.216
+Bangladesh	43.453
+Bangladesh	45.252
+Bangladesh	46.923
+Bangladesh	50.009
+Bangladesh	52.819
+Bangladesh	56.018
+Bangladesh	59.412
+Bangladesh	62.013
+Bangladesh	64.062
+Belgium	68
+Belgium	69.24
+Belgium	70.25
+Belgium	70.94
+Belgium	71.44
+Belgium	72.8
+Belgium	73.93
+Belgium	75.35
+Belgium	76.46
+Belgium	77.53
+Belgium	78.32
+Belgium	79.441
+Benin	38.223
+Benin	40.358
+Benin	42.618
+Benin	44.885
+Benin	47.014
+Benin	49.19
+Benin	50.904
+Benin	52.337
+Benin	53.919
+Benin	54.777
+Benin	54.406
+Benin	56.728
+Bolivia	40.414
+Bolivia	41.89
+Bolivia	43.428
+Bolivia	45.032
+Bolivia	46.714
+Bolivia	50.023
+Bolivia	53.859
+Bolivia	57.251
+Bolivia	59.957
+Bolivia	62.05
+Bolivia	63.883
+Bolivia	65.554
+Bosnia and Herzegovina	53.82
+Bosnia and Herzegovina	58.45
+Bosnia and Herzegovina	61.93
+Bosnia and Herzegovina	64.79
+Bosnia and Herzegovina	67.45
+Bosnia and Herzegovina	69.86
+Bosnia and Herzegovina	70.69
+Bosnia and Herzegovina	71.14
+Bosnia and Herzegovina	72.178
+Bosnia and Herzegovina	73.244
+Bosnia and Herzegovina	74.09
+Bosnia and Herzegovina	74.852
+Botswana	47.622
+Botswana	49.618
+Botswana	51.52
+Botswana	53.298
+Botswana	56.024
+Botswana	59.319
+Botswana	61.484
+Botswana	63.622
+Botswana	62.745
+Botswana	52.556
+Botswana	46.634
+Botswana	50.728
+Brazil	50.917
+Brazil	53.285
+Brazil	55.665
+Brazil	57.632
+Brazil	59.504
+Brazil	61.489
+Brazil	63.336
+Brazil	65.205
+Brazil	67.057
+Brazil	69.388
+Brazil	71.006
+Brazil	72.39
+Bulgaria	59.6
+Bulgaria	66.61
+Bulgaria	69.51
+Bulgaria	70.42
+Bulgaria	70.9
+Bulgaria	70.81
+Bulgaria	71.08
+Bulgaria	71.34
+Bulgaria	71.19
+Bulgaria	70.32
+Bulgaria	72.14
+Bulgaria	73.005
+Burkina Faso	31.975
+Burkina Faso	34.906
+Burkina Faso	37.814
+Burkina Faso	40.697
+Burkina Faso	43.591
+Burkina Faso	46.137
+Burkina Faso	48.122
+Burkina Faso	49.557
+Burkina Faso	50.26
+Burkina Faso	50.324
+Burkina Faso	50.65
+Burkina Faso	52.295
+Burundi	39.031
+Burundi	40.533
+Burundi	42.045
+Burundi	43.548
+Burundi	44.057
+Burundi	45.91
+Burundi	47.471
+Burundi	48.211
+Burundi	44.736
+Burundi	45.326
+Burundi	47.36
+Burundi	49.58
+Cambodia	39.417
+Cambodia	41.366
+Cambodia	43.415
+Cambodia	45.415
+Cambodia	40.317
+Cambodia	31.22
+Cambodia	50.957
+Cambodia	53.914
+Cambodia	55.803
+Cambodia	56.534
+Cambodia	56.752
+Cambodia	59.723
+Cameroon	38.523
+Cameroon	40.428
+Cameroon	42.643
+Cameroon	44.799
+Cameroon	47.049
+Cameroon	49.355
+Cameroon	52.961
+Cameroon	54.985
+Cameroon	54.314
+Cameroon	52.199
+Cameroon	49.856
+Cameroon	50.43
+Canada	68.75
+Canada	69.96
+Canada	71.3
+Canada	72.13
+Canada	72.88
+Canada	74.21
+Canada	75.76
+Canada	76.86
+Canada	77.95
+Canada	78.61
+Canada	79.77
+Canada	80.653
+Central African Republic	35.463
+Central African Republic	37.464
+Central African Republic	39.475
+Central African Republic	41.478
+Central African Republic	43.457
+Central African Republic	46.775
+Central African Republic	48.295
+Central African Republic	50.485
+Central African Republic	49.396
+Central African Republic	46.066
+Central African Republic	43.308
+Central African Republic	44.741
+Chad	38.092
+Chad	39.881
+Chad	41.716
+Chad	43.601
+Chad	45.569
+Chad	47.383
+Chad	49.517
+Chad	51.051
+Chad	51.724
+Chad	51.573
+Chad	50.525
+Chad	50.651
+Chile	54.745
+Chile	56.074
+Chile	57.924
+Chile	60.523
+Chile	63.441
+Chile	67.052
+Chile	70.565
+Chile	72.492
+Chile	74.126
+Chile	75.816
+Chile	77.86
+Chile	78.553
+China	44
+China	50.54896
+China	44.50136
+China	58.38112
+China	63.11888
+China	63.96736
+China	65.525
+China	67.274
+China	68.69
+China	70.426
+China	72.028
+China	72.961
+Colombia	50.643
+Colombia	55.118
+Colombia	57.863
+Colombia	59.963
+Colombia	61.623
+Colombia	63.837
+Colombia	66.653
+Colombia	67.768
+Colombia	68.421
+Colombia	70.313
+Colombia	71.682
+Colombia	72.889
+Comoros	40.715
+Comoros	42.46
+Comoros	44.467
+Comoros	46.472
+Comoros	48.944
+Comoros	50.939
+Comoros	52.933
+Comoros	54.926
+Comoros	57.939
+Comoros	60.66
+Comoros	62.974
+Comoros	65.152
+Congo, Dem. Rep.	39.143
+Congo, Dem. Rep.	40.652
+Congo, Dem. Rep.	42.122
+Congo, Dem. Rep.	44.056
+Congo, Dem. Rep.	45.989
+Congo, Dem. Rep.	47.804
+Congo, Dem. Rep.	47.784
+Congo, Dem. Rep.	47.412
+Congo, Dem. Rep.	45.548
+Congo, Dem. Rep.	42.587
+Congo, Dem. Rep.	44.966
+Congo, Dem. Rep.	46.462
+Congo, Rep.	42.111
+Congo, Rep.	45.053
+Congo, Rep.	48.435
+Congo, Rep.	52.04
+Congo, Rep.	54.907
+Congo, Rep.	55.625
+Congo, Rep.	56.695
+Congo, Rep.	57.47
+Congo, Rep.	56.433
+Congo, Rep.	52.962
+Congo, Rep.	52.97
+Congo, Rep.	55.322
+Costa Rica	57.206
+Costa Rica	60.026
+Costa Rica	62.842
+Costa Rica	65.424
+Costa Rica	67.849
+Costa Rica	70.75
+Costa Rica	73.45
+Costa Rica	74.752
+Costa Rica	75.713
+Costa Rica	77.26
+Costa Rica	78.123
+Costa Rica	78.782
+Cote d'Ivoire	40.477
+Cote d'Ivoire	42.469
+Cote d'Ivoire	44.93
+Cote d'Ivoire	47.35
+Cote d'Ivoire	49.801
+Cote d'Ivoire	52.374
+Cote d'Ivoire	53.983
+Cote d'Ivoire	54.655
+Cote d'Ivoire	52.044
+Cote d'Ivoire	47.991
+Cote d'Ivoire	46.832
+Cote d'Ivoire	48.328
+Croatia	61.21
+Croatia	64.77
+Croatia	67.13
+Croatia	68.5
+Croatia	69.61
+Croatia	70.64
+Croatia	70.46
+Croatia	71.52
+Croatia	72.527
+Croatia	73.68
+Croatia	74.876
+Croatia	75.748
+Cuba	59.421
+Cuba	62.325
+Cuba	65.246
+Cuba	68.29
+Cuba	70.723
+Cuba	72.649
+Cuba	73.717
+Cuba	74.174
+Cuba	74.414
+Cuba	76.151
+Cuba	77.158
+Cuba	78.273
+Czech Republic	66.87
+Czech Republic	69.03
+Czech Republic	69.9
+Czech Republic	70.38
+Czech Republic	70.29
+Czech Republic	70.71
+Czech Republic	70.96
+Czech Republic	71.58
+Czech Republic	72.4
+Czech Republic	74.01
+Czech Republic	75.51
+Czech Republic	76.486
+Denmark	70.78
+Denmark	71.81
+Denmark	72.35
+Denmark	72.96
+Denmark	73.47
+Denmark	74.69
+Denmark	74.63
+Denmark	74.8
+Denmark	75.33
+Denmark	76.11
+Denmark	77.18
+Denmark	78.332
+Djibouti	34.812
+Djibouti	37.328
+Djibouti	39.693
+Djibouti	42.074
+Djibouti	44.366
+Djibouti	46.519
+Djibouti	48.812
+Djibouti	50.04
+Djibouti	51.604
+Djibouti	53.157
+Djibouti	53.373
+Djibouti	54.791
+Dominican Republic	45.928
+Dominican Republic	49.828
+Dominican Republic	53.459
+Dominican Republic	56.751
+Dominican Republic	59.631
+Dominican Republic	61.788
+Dominican Republic	63.727
+Dominican Republic	66.046
+Dominican Republic	68.457
+Dominican Republic	69.957
+Dominican Republic	70.847
+Dominican Republic	72.235
+Ecuador	48.357
+Ecuador	51.356
+Ecuador	54.64
+Ecuador	56.678
+Ecuador	58.796
+Ecuador	61.31
+Ecuador	64.342
+Ecuador	67.231
+Ecuador	69.613
+Ecuador	72.312
+Ecuador	74.173
+Ecuador	74.994
+Egypt	41.893
+Egypt	44.444
+Egypt	46.992
+Egypt	49.293
+Egypt	51.137
+Egypt	53.319
+Egypt	56.006
+Egypt	59.797
+Egypt	63.674
+Egypt	67.217
+Egypt	69.806
+Egypt	71.338
+El Salvador	45.262
+El Salvador	48.57
+El Salvador	52.307
+El Salvador	55.855
+El Salvador	58.207
+El Salvador	56.696
+El Salvador	56.604
+El Salvador	63.154
+El Salvador	66.798
+El Salvador	69.535
+El Salvador	70.734
+El Salvador	71.878
+Equatorial Guinea	34.482
+Equatorial Guinea	35.983
+Equatorial Guinea	37.485
+Equatorial Guinea	38.987
+Equatorial Guinea	40.516
+Equatorial Guinea	42.024
+Equatorial Guinea	43.662
+Equatorial Guinea	45.664
+Equatorial Guinea	47.545
+Equatorial Guinea	48.245
+Equatorial Guinea	49.348
+Equatorial Guinea	51.579
+Eritrea	35.928
+Eritrea	38.047
+Eritrea	40.158
+Eritrea	42.189
+Eritrea	44.142
+Eritrea	44.535
+Eritrea	43.89
+Eritrea	46.453
+Eritrea	49.991
+Eritrea	53.378
+Eritrea	55.24
+Eritrea	58.04
+Ethiopia	34.078
+Ethiopia	36.667
+Ethiopia	40.059
+Ethiopia	42.115
+Ethiopia	43.515
+Ethiopia	44.51
+Ethiopia	44.916
+Ethiopia	46.684
+Ethiopia	48.091
+Ethiopia	49.402
+Ethiopia	50.725
+Ethiopia	52.947
+Finland	66.55
+Finland	67.49
+Finland	68.75
+Finland	69.83
+Finland	70.87
+Finland	72.52
+Finland	74.55
+Finland	74.83
+Finland	75.7
+Finland	77.13
+Finland	78.37
+Finland	79.313
+France	67.41
+France	68.93
+France	70.51
+France	71.55
+France	72.38
+France	73.83
+France	74.89
+France	76.34
+France	77.46
+France	78.64
+France	79.59
+France	80.657
+Gabon	37.003
+Gabon	38.999
+Gabon	40.489
+Gabon	44.598
+Gabon	48.69
+Gabon	52.79
+Gabon	56.564
+Gabon	60.19
+Gabon	61.366
+Gabon	60.461
+Gabon	56.761
+Gabon	56.735
+Gambia	30
+Gambia	32.065
+Gambia	33.896
+Gambia	35.857
+Gambia	38.308
+Gambia	41.842
+Gambia	45.58
+Gambia	49.265
+Gambia	52.644
+Gambia	55.861
+Gambia	58.041
+Gambia	59.448
+Germany	67.5
+Germany	69.1
+Germany	70.3
+Germany	70.8
+Germany	71
+Germany	72.5
+Germany	73.8
+Germany	74.847
+Germany	76.07
+Germany	77.34
+Germany	78.67
+Germany	79.406
+Ghana	43.149
+Ghana	44.779
+Ghana	46.452
+Ghana	48.072
+Ghana	49.875
+Ghana	51.756
+Ghana	53.744
+Ghana	55.729
+Ghana	57.501
+Ghana	58.556
+Ghana	58.453
+Ghana	60.022
+Greece	65.86
+Greece	67.86
+Greece	69.51
+Greece	71
+Greece	72.34
+Greece	73.68
+Greece	75.24
+Greece	76.67
+Greece	77.03
+Greece	77.869
+Greece	78.256
+Greece	79.483
+Guatemala	42.023
+Guatemala	44.142
+Guatemala	46.954
+Guatemala	50.016
+Guatemala	53.738
+Guatemala	56.029
+Guatemala	58.137
+Guatemala	60.782
+Guatemala	63.373
+Guatemala	66.322
+Guatemala	68.978
+Guatemala	70.259
+Guinea	33.609
+Guinea	34.558
+Guinea	35.753
+Guinea	37.197
+Guinea	38.842
+Guinea	40.762
+Guinea	42.891
+Guinea	45.552
+Guinea	48.576
+Guinea	51.455
+Guinea	53.676
+Guinea	56.007
+Guinea-Bissau	32.5
+Guinea-Bissau	33.489
+Guinea-Bissau	34.488
+Guinea-Bissau	35.492
+Guinea-Bissau	36.486
+Guinea-Bissau	37.465
+Guinea-Bissau	39.327
+Guinea-Bissau	41.245
+Guinea-Bissau	43.266
+Guinea-Bissau	44.873
+Guinea-Bissau	45.504
+Guinea-Bissau	46.388
+Haiti	37.579
+Haiti	40.696
+Haiti	43.59
+Haiti	46.243
+Haiti	48.042
+Haiti	49.923
+Haiti	51.461
+Haiti	53.636
+Haiti	55.089
+Haiti	56.671
+Haiti	58.137
+Haiti	60.916
+Honduras	41.912
+Honduras	44.665
+Honduras	48.041
+Honduras	50.924
+Honduras	53.884
+Honduras	57.402
+Honduras	60.909
+Honduras	64.492
+Honduras	66.399
+Honduras	67.659
+Honduras	68.565
+Honduras	70.198
+Hong Kong, China	60.96
+Hong Kong, China	64.75
+Hong Kong, China	67.65
+Hong Kong, China	70
+Hong Kong, China	72
+Hong Kong, China	73.6
+Hong Kong, China	75.45
+Hong Kong, China	76.2
+Hong Kong, China	77.601
+Hong Kong, China	80
+Hong Kong, China	81.495
+Hong Kong, China	82.208
+Hungary	64.03
+Hungary	66.41
+Hungary	67.96
+Hungary	69.5
+Hungary	69.76
+Hungary	69.95
+Hungary	69.39
+Hungary	69.58
+Hungary	69.17
+Hungary	71.04
+Hungary	72.59
+Hungary	73.338
+Iceland	72.49
+Iceland	73.47
+Iceland	73.68
+Iceland	73.73
+Iceland	74.46
+Iceland	76.11
+Iceland	76.99
+Iceland	77.23
+Iceland	78.77
+Iceland	78.95
+Iceland	80.5
+Iceland	81.757
+India	37.373
+India	40.249
+India	43.605
+India	47.193
+India	50.651
+India	54.208
+India	56.596
+India	58.553
+India	60.223
+India	61.765
+India	62.879
+India	64.698
+Indonesia	37.468
+Indonesia	39.918
+Indonesia	42.518
+Indonesia	45.964
+Indonesia	49.203
+Indonesia	52.702
+Indonesia	56.159
+Indonesia	60.137
+Indonesia	62.681
+Indonesia	66.041
+Indonesia	68.588
+Indonesia	70.65
+Iran	44.869
+Iran	47.181
+Iran	49.325
+Iran	52.469
+Iran	55.234
+Iran	57.702
+Iran	59.62
+Iran	63.04
+Iran	65.742
+Iran	68.042
+Iran	69.451
+Iran	70.964
+Iraq	45.32
+Iraq	48.437
+Iraq	51.457
+Iraq	54.459
+Iraq	56.95
+Iraq	60.413
+Iraq	62.038
+Iraq	65.044
+Iraq	59.461
+Iraq	58.811
+Iraq	57.046
+Iraq	59.545
+Ireland	66.91
+Ireland	68.9
+Ireland	70.29
+Ireland	71.08
+Ireland	71.28
+Ireland	72.03
+Ireland	73.1
+Ireland	74.36
+Ireland	75.467
+Ireland	76.122
+Ireland	77.783
+Ireland	78.885
+Israel	65.39
+Israel	67.84
+Israel	69.39
+Israel	70.75
+Israel	71.63
+Israel	73.06
+Israel	74.45
+Israel	75.6
+Israel	76.93
+Israel	78.269
+Israel	79.696
+Israel	80.745
+Italy	65.94
+Italy	67.81
+Italy	69.24
+Italy	71.06
+Italy	72.19
+Italy	73.48
+Italy	74.98
+Italy	76.42
+Italy	77.44
+Italy	78.82
+Italy	80.24
+Italy	80.546
+Jamaica	58.53
+Jamaica	62.61
+Jamaica	65.61
+Jamaica	67.51
+Jamaica	69
+Jamaica	70.11
+Jamaica	71.21
+Jamaica	71.77
+Jamaica	71.766
+Jamaica	72.262
+Jamaica	72.047
+Jamaica	72.567
+Japan	63.03
+Japan	65.5
+Japan	68.73
+Japan	71.43
+Japan	73.42
+Japan	75.38
+Japan	77.11
+Japan	78.67
+Japan	79.36
+Japan	80.69
+Japan	82
+Japan	82.603
+Jordan	43.158
+Jordan	45.669
+Jordan	48.126
+Jordan	51.629
+Jordan	56.528
+Jordan	61.134
+Jordan	63.739
+Jordan	65.869
+Jordan	68.015
+Jordan	69.772
+Jordan	71.263
+Jordan	72.535
+Kenya	42.27
+Kenya	44.686
+Kenya	47.949
+Kenya	50.654
+Kenya	53.559
+Kenya	56.155
+Kenya	58.766
+Kenya	59.339
+Kenya	59.285
+Kenya	54.407
+Kenya	50.992
+Kenya	54.11
+Korea, Dem. Rep.	50.056
+Korea, Dem. Rep.	54.081
+Korea, Dem. Rep.	56.656
+Korea, Dem. Rep.	59.942
+Korea, Dem. Rep.	63.983
+Korea, Dem. Rep.	67.159
+Korea, Dem. Rep.	69.1
+Korea, Dem. Rep.	70.647
+Korea, Dem. Rep.	69.978
+Korea, Dem. Rep.	67.727
+Korea, Dem. Rep.	66.662
+Korea, Dem. Rep.	67.297
+Korea, Rep.	47.453
+Korea, Rep.	52.681
+Korea, Rep.	55.292
+Korea, Rep.	57.716
+Korea, Rep.	62.612
+Korea, Rep.	64.766
+Korea, Rep.	67.123
+Korea, Rep.	69.81
+Korea, Rep.	72.244
+Korea, Rep.	74.647
+Korea, Rep.	77.045
+Korea, Rep.	78.623
+Kuwait	55.565
+Kuwait	58.033
+Kuwait	60.47
+Kuwait	64.624
+Kuwait	67.712
+Kuwait	69.343
+Kuwait	71.309
+Kuwait	74.174
+Kuwait	75.19
+Kuwait	76.156
+Kuwait	76.904
+Kuwait	77.588
+Lebanon	55.928
+Lebanon	59.489
+Lebanon	62.094
+Lebanon	63.87
+Lebanon	65.421
+Lebanon	66.099
+Lebanon	66.983
+Lebanon	67.926
+Lebanon	69.292
+Lebanon	70.265
+Lebanon	71.028
+Lebanon	71.993
+Lesotho	42.138
+Lesotho	45.047
+Lesotho	47.747
+Lesotho	48.492
+Lesotho	49.767
+Lesotho	52.208
+Lesotho	55.078
+Lesotho	57.18
+Lesotho	59.685
+Lesotho	55.558
+Lesotho	44.593
+Lesotho	42.592
+Liberia	38.48
+Liberia	39.486
+Liberia	40.502
+Liberia	41.536
+Liberia	42.614
+Liberia	43.764
+Liberia	44.852
+Liberia	46.027
+Liberia	40.802
+Liberia	42.221
+Liberia	43.753
+Liberia	45.678
+Libya	42.723
+Libya	45.289
+Libya	47.808
+Libya	50.227
+Libya	52.773
+Libya	57.442
+Libya	62.155
+Libya	66.234
+Libya	68.755
+Libya	71.555
+Libya	72.737
+Libya	73.952
+Madagascar	36.681
+Madagascar	38.865
+Madagascar	40.848
+Madagascar	42.881
+Madagascar	44.851
+Madagascar	46.881
+Madagascar	48.969
+Madagascar	49.35
+Madagascar	52.214
+Madagascar	54.978
+Madagascar	57.286
+Madagascar	59.443
+Malawi	36.256
+Malawi	37.207
+Malawi	38.41
+Malawi	39.487
+Malawi	41.766
+Malawi	43.767
+Malawi	45.642
+Malawi	47.457
+Malawi	49.42
+Malawi	47.495
+Malawi	45.009
+Malawi	48.303
+Malaysia	48.463
+Malaysia	52.102
+Malaysia	55.737
+Malaysia	59.371
+Malaysia	63.01
+Malaysia	65.256
+Malaysia	68
+Malaysia	69.5
+Malaysia	70.693
+Malaysia	71.938
+Malaysia	73.044
+Malaysia	74.241
+Mali	33.685
+Mali	35.307
+Mali	36.936
+Mali	38.487
+Mali	39.977
+Mali	41.714
+Mali	43.916
+Mali	46.364
+Mali	48.388
+Mali	49.903
+Mali	51.818
+Mali	54.467
+Mauritania	40.543
+Mauritania	42.338
+Mauritania	44.248
+Mauritania	46.289
+Mauritania	48.437
+Mauritania	50.852
+Mauritania	53.599
+Mauritania	56.145
+Mauritania	58.333
+Mauritania	60.43
+Mauritania	62.247
+Mauritania	64.164
+Mauritius	50.986
+Mauritius	58.089
+Mauritius	60.246
+Mauritius	61.557
+Mauritius	62.944
+Mauritius	64.93
+Mauritius	66.711
+Mauritius	68.74
+Mauritius	69.745
+Mauritius	70.736
+Mauritius	71.954
+Mauritius	72.801
+Mexico	50.789
+Mexico	55.19
+Mexico	58.299
+Mexico	60.11
+Mexico	62.361
+Mexico	65.032
+Mexico	67.405
+Mexico	69.498
+Mexico	71.455
+Mexico	73.67
+Mexico	74.902
+Mexico	76.195
+Mongolia	42.244
+Mongolia	45.248
+Mongolia	48.251
+Mongolia	51.253
+Mongolia	53.754
+Mongolia	55.491
+Mongolia	57.489
+Mongolia	60.222
+Mongolia	61.271
+Mongolia	63.625
+Mongolia	65.033
+Mongolia	66.803
+Montenegro	59.164
+Montenegro	61.448
+Montenegro	63.728
+Montenegro	67.178
+Montenegro	70.636
+Montenegro	73.066
+Montenegro	74.101
+Montenegro	74.865
+Montenegro	75.435
+Montenegro	75.445
+Montenegro	73.981
+Montenegro	74.543
+Morocco	42.873
+Morocco	45.423
+Morocco	47.924
+Morocco	50.335
+Morocco	52.862
+Morocco	55.73
+Morocco	59.65
+Morocco	62.677
+Morocco	65.393
+Morocco	67.66
+Morocco	69.615
+Morocco	71.164
+Mozambique	31.286
+Mozambique	33.779
+Mozambique	36.161
+Mozambique	38.113
+Mozambique	40.328
+Mozambique	42.495
+Mozambique	42.795
+Mozambique	42.861
+Mozambique	44.284
+Mozambique	46.344
+Mozambique	44.026
+Mozambique	42.082
+Myanmar	36.319
+Myanmar	41.905
+Myanmar	45.108
+Myanmar	49.379
+Myanmar	53.07
+Myanmar	56.059
+Myanmar	58.056
+Myanmar	58.339
+Myanmar	59.32
+Myanmar	60.328
+Myanmar	59.908
+Myanmar	62.069
+Namibia	41.725
+Namibia	45.226
+Namibia	48.386
+Namibia	51.159
+Namibia	53.867
+Namibia	56.437
+Namibia	58.968
+Namibia	60.835
+Namibia	61.999
+Namibia	58.909
+Namibia	51.479
+Namibia	52.906
+Nepal	36.157
+Nepal	37.686
+Nepal	39.393
+Nepal	41.472
+Nepal	43.971
+Nepal	46.748
+Nepal	49.594
+Nepal	52.537
+Nepal	55.727
+Nepal	59.426
+Nepal	61.34
+Nepal	63.785
+Netherlands	72.13
+Netherlands	72.99
+Netherlands	73.23
+Netherlands	73.82
+Netherlands	73.75
+Netherlands	75.24
+Netherlands	76.05
+Netherlands	76.83
+Netherlands	77.42
+Netherlands	78.03
+Netherlands	78.53
+Netherlands	79.762
+New Zealand	69.39
+New Zealand	70.26
+New Zealand	71.24
+New Zealand	71.52
+New Zealand	71.89
+New Zealand	72.22
+New Zealand	73.84
+New Zealand	74.32
+New Zealand	76.33
+New Zealand	77.55
+New Zealand	79.11
+New Zealand	80.204
+Nicaragua	42.314
+Nicaragua	45.432
+Nicaragua	48.632
+Nicaragua	51.884
+Nicaragua	55.151
+Nicaragua	57.47
+Nicaragua	59.298
+Nicaragua	62.008
+Nicaragua	65.843
+Nicaragua	68.426
+Nicaragua	70.836
+Nicaragua	72.899
+Niger	37.444
+Niger	38.598
+Niger	39.487
+Niger	40.118
+Niger	40.546
+Niger	41.291
+Niger	42.598
+Niger	44.555
+Niger	47.391
+Niger	51.313
+Niger	54.496
+Niger	56.867
+Nigeria	36.324
+Nigeria	37.802
+Nigeria	39.36
+Nigeria	41.04
+Nigeria	42.821
+Nigeria	44.514
+Nigeria	45.826
+Nigeria	46.886
+Nigeria	47.472
+Nigeria	47.464
+Nigeria	46.608
+Nigeria	46.859
+Norway	72.67
+Norway	73.44
+Norway	73.47
+Norway	74.08
+Norway	74.34
+Norway	75.37
+Norway	75.97
+Norway	75.89
+Norway	77.32
+Norway	78.32
+Norway	79.05
+Norway	80.196
+Oman	37.578
+Oman	40.08
+Oman	43.165
+Oman	46.988
+Oman	52.143
+Oman	57.367
+Oman	62.728
+Oman	67.734
+Oman	71.197
+Oman	72.499
+Oman	74.193
+Oman	75.64
+Pakistan	43.436
+Pakistan	45.557
+Pakistan	47.67
+Pakistan	49.8
+Pakistan	51.929
+Pakistan	54.043
+Pakistan	56.158
+Pakistan	58.245
+Pakistan	60.838
+Pakistan	61.818
+Pakistan	63.61
+Pakistan	65.483
+Panama	55.191
+Panama	59.201
+Panama	61.817
+Panama	64.071
+Panama	66.216
+Panama	68.681
+Panama	70.472
+Panama	71.523
+Panama	72.462
+Panama	73.738
+Panama	74.712
+Panama	75.537
+Paraguay	62.649
+Paraguay	63.196
+Paraguay	64.361
+Paraguay	64.951
+Paraguay	65.815
+Paraguay	66.353
+Paraguay	66.874
+Paraguay	67.378
+Paraguay	68.225
+Paraguay	69.4
+Paraguay	70.755
+Paraguay	71.752
+Peru	43.902
+Peru	46.263
+Peru	49.096
+Peru	51.445
+Peru	55.448
+Peru	58.447
+Peru	61.406
+Peru	64.134
+Peru	66.458
+Peru	68.386
+Peru	69.906
+Peru	71.421
+Philippines	47.752
+Philippines	51.334
+Philippines	54.757
+Philippines	56.393
+Philippines	58.065
+Philippines	60.06
+Philippines	62.082
+Philippines	64.151
+Philippines	66.458
+Philippines	68.564
+Philippines	70.303
+Philippines	71.688
+Poland	61.31
+Poland	65.77
+Poland	67.64
+Poland	69.61
+Poland	70.85
+Poland	70.67
+Poland	71.32
+Poland	70.98
+Poland	70.99
+Poland	72.75
+Poland	74.67
+Poland	75.563
+Portugal	59.82
+Portugal	61.51
+Portugal	64.39
+Portugal	66.6
+Portugal	69.26
+Portugal	70.41
+Portugal	72.77
+Portugal	74.06
+Portugal	74.86
+Portugal	75.97
+Portugal	77.29
+Portugal	78.098
+Puerto Rico	64.28
+Puerto Rico	68.54
+Puerto Rico	69.62
+Puerto Rico	71.1
+Puerto Rico	72.16
+Puerto Rico	73.44
+Puerto Rico	73.75
+Puerto Rico	74.63
+Puerto Rico	73.911
+Puerto Rico	74.917
+Puerto Rico	77.778
+Puerto Rico	78.746
+Reunion	52.724
+Reunion	55.09
+Reunion	57.666
+Reunion	60.542
+Reunion	64.274
+Reunion	67.064
+Reunion	69.885
+Reunion	71.913
+Reunion	73.615
+Reunion	74.772
+Reunion	75.744
+Reunion	76.442
+Romania	61.05
+Romania	64.1
+Romania	66.8
+Romania	66.8
+Romania	69.21
+Romania	69.46
+Romania	69.66
+Romania	69.53
+Romania	69.36
+Romania	69.72
+Romania	71.322
+Romania	72.476
+Rwanda	40
+Rwanda	41.5
+Rwanda	43
+Rwanda	44.1
+Rwanda	44.6
+Rwanda	45
+Rwanda	46.218
+Rwanda	44.02
+Rwanda	23.599
+Rwanda	36.087
+Rwanda	43.413
+Rwanda	46.242
+Sao Tome and Principe	46.471
+Sao Tome and Principe	48.945
+Sao Tome and Principe	51.893
+Sao Tome and Principe	54.425
+Sao Tome and Principe	56.48
+Sao Tome and Principe	58.55
+Sao Tome and Principe	60.351
+Sao Tome and Principe	61.728
+Sao Tome and Principe	62.742
+Sao Tome and Principe	63.306
+Sao Tome and Principe	64.337
+Sao Tome and Principe	65.528
+Saudi Arabia	39.875
+Saudi Arabia	42.868
+Saudi Arabia	45.914
+Saudi Arabia	49.901
+Saudi Arabia	53.886
+Saudi Arabia	58.69
+Saudi Arabia	63.012
+Saudi Arabia	66.295
+Saudi Arabia	68.768
+Saudi Arabia	70.533
+Saudi Arabia	71.626
+Saudi Arabia	72.777
+Senegal	37.278
+Senegal	39.329
+Senegal	41.454
+Senegal	43.563
+Senegal	45.815
+Senegal	48.879
+Senegal	52.379
+Senegal	55.769
+Senegal	58.196
+Senegal	60.187
+Senegal	61.6
+Senegal	63.062
+Serbia	57.996
+Serbia	61.685
+Serbia	64.531
+Serbia	66.914
+Serbia	68.7
+Serbia	70.3
+Serbia	70.162
+Serbia	71.218
+Serbia	71.659
+Serbia	72.232
+Serbia	73.213
+Serbia	74.002
+Sierra Leone	30.331
+Sierra Leone	31.57
+Sierra Leone	32.767
+Sierra Leone	34.113
+Sierra Leone	35.4
+Sierra Leone	36.788
+Sierra Leone	38.445
+Sierra Leone	40.006
+Sierra Leone	38.333
+Sierra Leone	39.897
+Sierra Leone	41.012
+Sierra Leone	42.568
+Singapore	60.396
+Singapore	63.179
+Singapore	65.798
+Singapore	67.946
+Singapore	69.521
+Singapore	70.795
+Singapore	71.76
+Singapore	73.56
+Singapore	75.788
+Singapore	77.158
+Singapore	78.77
+Singapore	79.972
+Slovak Republic	64.36
+Slovak Republic	67.45
+Slovak Republic	70.33
+Slovak Republic	70.98
+Slovak Republic	70.35
+Slovak Republic	70.45
+Slovak Republic	70.8
+Slovak Republic	71.08
+Slovak Republic	71.38
+Slovak Republic	72.71
+Slovak Republic	73.8
+Slovak Republic	74.663
+Slovenia	65.57
+Slovenia	67.85
+Slovenia	69.15
+Slovenia	69.18
+Slovenia	69.82
+Slovenia	70.97
+Slovenia	71.063
+Slovenia	72.25
+Slovenia	73.64
+Slovenia	75.13
+Slovenia	76.66
+Slovenia	77.926
+Somalia	32.978
+Somalia	34.977
+Somalia	36.981
+Somalia	38.977
+Somalia	40.973
+Somalia	41.974
+Somalia	42.955
+Somalia	44.501
+Somalia	39.658
+Somalia	43.795
+Somalia	45.936
+Somalia	48.159
+South Africa	45.009
+South Africa	47.985
+South Africa	49.951
+South Africa	51.927
+South Africa	53.696
+South Africa	55.527
+South Africa	58.161
+South Africa	60.834
+South Africa	61.888
+South Africa	60.236
+South Africa	53.365
+South Africa	49.339
+Spain	64.94
+Spain	66.66
+Spain	69.69
+Spain	71.44
+Spain	73.06
+Spain	74.39
+Spain	76.3
+Spain	76.9
+Spain	77.57
+Spain	78.77
+Spain	79.78
+Spain	80.941
+Sri Lanka	57.593
+Sri Lanka	61.456
+Sri Lanka	62.192
+Sri Lanka	64.266
+Sri Lanka	65.042
+Sri Lanka	65.949
+Sri Lanka	68.757
+Sri Lanka	69.011
+Sri Lanka	70.379
+Sri Lanka	70.457
+Sri Lanka	70.815
+Sri Lanka	72.396
+Sudan	38.635
+Sudan	39.624
+Sudan	40.87
+Sudan	42.858
+Sudan	45.083
+Sudan	47.8
+Sudan	50.338
+Sudan	51.744
+Sudan	53.556
+Sudan	55.373
+Sudan	56.369
+Sudan	58.556
+Swaziland	41.407
+Swaziland	43.424
+Swaziland	44.992
+Swaziland	46.633
+Swaziland	49.552
+Swaziland	52.537
+Swaziland	55.561
+Swaziland	57.678
+Swaziland	58.474
+Swaziland	54.289
+Swaziland	43.869
+Swaziland	39.613
+Sweden	71.86
+Sweden	72.49
+Sweden	73.37
+Sweden	74.16
+Sweden	74.72
+Sweden	75.44
+Sweden	76.42
+Sweden	77.19
+Sweden	78.16
+Sweden	79.39
+Sweden	80.04
+Sweden	80.884
+Switzerland	69.62
+Switzerland	70.56
+Switzerland	71.32
+Switzerland	72.77
+Switzerland	73.78
+Switzerland	75.39
+Switzerland	76.21
+Switzerland	77.41
+Switzerland	78.03
+Switzerland	79.37
+Switzerland	80.62
+Switzerland	81.701
+Syria	45.883
+Syria	48.284
+Syria	50.305
+Syria	53.655
+Syria	57.296
+Syria	61.195
+Syria	64.59
+Syria	66.974
+Syria	69.249
+Syria	71.527
+Syria	73.053
+Syria	74.143
+Taiwan	58.5
+Taiwan	62.4
+Taiwan	65.2
+Taiwan	67.5
+Taiwan	69.39
+Taiwan	70.59
+Taiwan	72.16
+Taiwan	73.4
+Taiwan	74.26
+Taiwan	75.25
+Taiwan	76.99
+Taiwan	78.4
+Tanzania	41.215
+Tanzania	42.974
+Tanzania	44.246
+Tanzania	45.757
+Tanzania	47.62
+Tanzania	49.919
+Tanzania	50.608
+Tanzania	51.535
+Tanzania	50.44
+Tanzania	48.466
+Tanzania	49.651
+Tanzania	52.517
+Thailand	50.848
+Thailand	53.63
+Thailand	56.061
+Thailand	58.285
+Thailand	60.405
+Thailand	62.494
+Thailand	64.597
+Thailand	66.084
+Thailand	67.298
+Thailand	67.521
+Thailand	68.564
+Thailand	70.616
+Togo	38.596
+Togo	41.208
+Togo	43.922
+Togo	46.769
+Togo	49.759
+Togo	52.887
+Togo	55.471
+Togo	56.941
+Togo	58.061
+Togo	58.39
+Togo	57.561
+Togo	58.42
+Trinidad and Tobago	59.1
+Trinidad and Tobago	61.8
+Trinidad and Tobago	64.9
+Trinidad and Tobago	65.4
+Trinidad and Tobago	65.9
+Trinidad and Tobago	68.3
+Trinidad and Tobago	68.832
+Trinidad and Tobago	69.582
+Trinidad and Tobago	69.862
+Trinidad and Tobago	69.465
+Trinidad and Tobago	68.976
+Trinidad and Tobago	69.819
+Tunisia	44.6
+Tunisia	47.1
+Tunisia	49.579
+Tunisia	52.053
+Tunisia	55.602
+Tunisia	59.837
+Tunisia	64.048
+Tunisia	66.894
+Tunisia	70.001
+Tunisia	71.973
+Tunisia	73.042
+Tunisia	73.923
+Turkey	43.585
+Turkey	48.079
+Turkey	52.098
+Turkey	54.336
+Turkey	57.005
+Turkey	59.507
+Turkey	61.036
+Turkey	63.108
+Turkey	66.146
+Turkey	68.835
+Turkey	70.845
+Turkey	71.777
+Uganda	39.978
+Uganda	42.571
+Uganda	45.344
+Uganda	48.051
+Uganda	51.016
+Uganda	50.35
+Uganda	49.849
+Uganda	51.509
+Uganda	48.825
+Uganda	44.578
+Uganda	47.813
+Uganda	51.542
+United Kingdom	69.18
+United Kingdom	70.42
+United Kingdom	70.76
+United Kingdom	71.36
+United Kingdom	72.01
+United Kingdom	72.76
+United Kingdom	74.04
+United Kingdom	75.007
+United Kingdom	76.42
+United Kingdom	77.218
+United Kingdom	78.471
+United Kingdom	79.425
+United States	68.44
+United States	69.49
+United States	70.21
+United States	70.76
+United States	71.34
+United States	73.38
+United States	74.65
+United States	75.02
+United States	76.09
+United States	76.81
+United States	77.31
+United States	78.242
+Uruguay	66.071
+Uruguay	67.044
+Uruguay	68.253
+Uruguay	68.468
+Uruguay	68.673
+Uruguay	69.481
+Uruguay	70.805
+Uruguay	71.918
+Uruguay	72.752
+Uruguay	74.223
+Uruguay	75.307
+Uruguay	76.384
+Venezuela	55.088
+Venezuela	57.907
+Venezuela	60.77
+Venezuela	63.479
+Venezuela	65.712
+Venezuela	67.456
+Venezuela	68.557
+Venezuela	70.19
+Venezuela	71.15
+Venezuela	72.146
+Venezuela	72.766
+Venezuela	73.747
+Vietnam	40.412
+Vietnam	42.887
+Vietnam	45.363
+Vietnam	47.838
+Vietnam	50.254
+Vietnam	55.764
+Vietnam	58.816
+Vietnam	62.82
+Vietnam	67.662
+Vietnam	70.672
+Vietnam	73.017
+Vietnam	74.249
+West Bank and Gaza	43.16
+West Bank and Gaza	45.671
+West Bank and Gaza	48.127
+West Bank and Gaza	51.631
+West Bank and Gaza	56.532
+West Bank and Gaza	60.765
+West Bank and Gaza	64.406
+West Bank and Gaza	67.046
+West Bank and Gaza	69.718
+West Bank and Gaza	71.096
+West Bank and Gaza	72.37
+West Bank and Gaza	73.422
+Yemen, Rep.	32.548
+Yemen, Rep.	33.97
+Yemen, Rep.	35.18
+Yemen, Rep.	36.984
+Yemen, Rep.	39.848
+Yemen, Rep.	44.175
+Yemen, Rep.	49.113
+Yemen, Rep.	52.922
+Yemen, Rep.	55.599
+Yemen, Rep.	58.02
+Yemen, Rep.	60.308
+Yemen, Rep.	62.698
+Zambia	42.038
+Zambia	44.077
+Zambia	46.023
+Zambia	47.768
+Zambia	50.107
+Zambia	51.386
+Zambia	51.821
+Zambia	50.821
+Zambia	46.1
+Zambia	40.238
+Zambia	39.193
+Zambia	42.384
+Zimbabwe	48.451
+Zimbabwe	50.469
+Zimbabwe	52.358
+Zimbabwe	53.995
+Zimbabwe	55.635
+Zimbabwe	57.674
+Zimbabwe	60.363
+Zimbabwe	62.351
+Zimbabwe	60.377
+Zimbabwe	46.809
+Zimbabwe	39.989
+Zimbabwe	43.487

@@ -1,0 +1,170 @@
+---
+title: "Demonstration of foofactors new capabilities"
+author: "Elijah Willie"
+output:
+  github_document:
+    toc: yes
+---
+
+# Introduction
+Hello my name is `Elijah Willie` and welcome to a modified version of the `foofactor` package. In this document, I will attempt to show the new functionalities of this package.
+
+
+
+# Installtion
+
+Below is how one would go about installing this package
+
+```{r}
+suppressMessages(library(dplyr))
+library(devtools)
+# devtools::install_github("STAT545-UBC-students/hw07-ecool50")
+```
+
+# Functions in foofactor
+Factors are a very useful type of variable in R, but they can also drive you nuts. Especially the "stealth factor" that you think of as character.
+
+Can we soften some of their sharp edges?
+
+## fbind
+Binding two factors via `fbind()`:
+
+```{r}
+library(foofactors)
+a <- factor(c("character", "hits", "your", "eyeballs"))
+b <- factor(c("but", "integer", "where it", "counts"))
+```
+
+Simply catenating two factors leads to a result that most don't expect.
+
+```{r}
+c(a, b)
+```
+
+The `fbind()` function glues two factors together and returns factor.
+
+```{r}
+fbind(a, b)
+```
+
+Often we want a table of frequencies for the levels of a factor. The base `table()` function returns an object of class `table`, which can be inconvenient for downstream work.  Processing with `as.data.frame()` can be helpful but it's a bit clunky.
+
+```{r}
+set.seed(1234)
+x <- factor(sample(letters[1:5], size = 100, replace = TRUE))
+table(x)
+as.data.frame(table(x))
+```
+
+## freq_out
+
+The `freq_out()` function returns a frequency table as a well-named `tbl_df`:
+
+```{r}
+freq_out(x)
+```
+
+
+## isFactor
+
+One of the new functionalities is the `isFactor` function. This function checks to see if a factor could be represented as a string. If the number of levels of the factor is equal to the length of the factor, then it is most likely a character rather than a factor.
+
+
+```{r}
+#show the case where it is indeed a factor
+x <- c('X', 'X', 'Y')
+x_new <- factor(x)
+y <- c('W', 'X')
+y_new <- factor(y)
+isFactor(x_new)
+isFactor(y_new)
+```
+
+We see that for the first case it returns `False` and for the second case it returns `True`
+
+## Factor_Reorder
+
+The `Factor_Reorder` function takes in a factor and returns the levels of the factor reordered. The reordering is done in descending order.
+```{r}
+#create a factor variable
+x <- c('X', 'X', 'Y', 'Q', 'P')
+x_new <- factor(x)
+#get the levesl of x
+x_levels <- levels(x_new)
+
+#now reorder the factor levels
+x_reord <- Factor_Reorder(x_new)
+
+#print the results
+print("Original factor levels")
+x_levels
+
+print("Reordered factor levels")
+x_reord
+  
+```
+
+## Factor_Order
+
+The function `Factor_Order` takes in a factor and returns the levels of the factor in the same order as they appear in the dataset.
+```{r}
+#create a factor variable
+x <- c('X', 'X', 'Y', 'Q', 'P')
+x_new <- factor(x)
+
+print("the original factor levels")
+levels(x_new)
+
+print("After setting the factors as is")
+Factor_Order(x_new)
+```
+
+We see that the factors are returned as is in the original dataset.
+
+## Read_textFile
+Now I will demonstrate reading in a textfile and automatically detecting its delimeter
+
+```{r}
+#set the data source
+datae_source <- "http://www.stat.ubc.ca/~jenny/notOcto/STAT545A/examples/gapminder/data/gapminderDataFiveYear.txt"
+
+#read in the data
+df <- Read_textFile(datae_source)
+
+#show it
+knitr::kable(head(df, 10))
+
+#get some summary
+str(df)
+
+```
+
+Looking at the structure of the data, we can see that both country and continent was read in as factors as desired.
+
+## Write_textFile
+
+Finally, I will demonstrate the writing to text file functionality. 
+```{r}
+library(gapminder)
+#create a new dataframe to write
+df_new <- data.frame(gapminder$country, gapminder$lifeExp)
+
+#write it to a textfile
+Write_textFile(df_new, name = "Gapminder_cont_lifeExp.txt", delim = "\t")
+
+#read it back to double check
+df_gap <- Read_textFile("Gapminder_cont_lifeExp.txt")
+
+#double check it was written correctly
+knitr::kable(head(df_gap, 10))
+```
+
+Fabulous! everything works!
+
+# Credits
+
+* Some of the work here may have been borrowed and modified from other sources.
+* This was purely done to illustrate some ideas
+* I take no credit for parts of the work that are not mine
+* Let credit be given where it is due.
+* The foofactor package was originally written by `Jennifer Bryan` and can be found [here](https://github.com/jennybc/foofactors)
